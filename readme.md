@@ -7,7 +7,7 @@
 ## Demo
 Check out the [demo](https://jacopoparvizi.com/assets/apps/wiki-app/index.html) project for a quick example of how it looks.
 
-![wiki](https://github.com/mottiden/platform-game/blob/master/platform-game.gif)
+![wiki](https://github.com/mottiden/wiki-app/blob/master/wiki-app.gif)
 
 Pull requests are more than welcomed!
 
